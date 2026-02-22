@@ -3,7 +3,7 @@
     <title>arte y comunicación</title>
     <link href="https://danielamurciab-stack.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://danielamurciab-stack.github.io/arte-comunicacion" />
-    <updated>2026-02-22T15:18:54-05:00</updated>
+    <updated>2026-02-22T18:24:41-05:00</updated>
     <author>
         <name>daniela murcia</name>
     </author>
@@ -19,7 +19,27 @@
             <category term="composición visual"/>
 
         <updated>2026-02-22T15:15:57-05:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    mi composición surge de una fascinación persistente por las mariposas y por&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>mi composición surge de una fascinación persistente por las mariposas y por la complejidad visual de sus alas. más que representarlas de manera literal, me interesó abstraer sus estructuras: la simetría bilateral, los ritmos modulares, la repetición de patrones y la manera en que el color se organiza en campos que parecen vibrar. a partir de la observación de sus superficies —donde escamas microscópicas producen efectos iridiscentes y transiciones cromáticas inesperadas— traduje estas cualidades a un lenguaje geométrico y vectorial, buscando un equilibrio entre orden y ornamentación. como referencia conceptual y visual, me basé en la obra <strong data-start="647" data-end="664"><em data-start="649" data-end="662" data-is-only-node="">Butterflies</em></strong> de Heiko Hellwig, en la que la mariposa deja de ser solo un organismo para convertirse en un sistema de formas, simetrías y tensiones visuales. mi composición retoma esa lógica estructural para explorar cómo la naturaleza puede transformarse en un patrón visual sofisticado que oscila entre lo biológico y lo abstracto.</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/1/gallery/IMG_8927-4.JPG" data-size="1000x1000"><img loading="lazy" src="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/1/gallery/IMG_8927-4-thumbnail.JPG" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/1/gallery/IMG_8931-4.JPG" data-size="800x1199"><img loading="lazy" src="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/1/gallery/IMG_8931-4-thumbnail.JPG" alt="" width="768" height="1151"></a></figure>
+<figure class="gallery__item"><a href="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/1/gallery/IMG_8933-4.JPG" data-size="640x479"><img loading="lazy" src="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/1/gallery/IMG_8933-4-thumbnail.JPG" alt="" width="640" height="479"></a></figure>
+</div></div>
+<p>composición final: </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/1/mariposatex.png" alt="" width="584" height="584" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/1/responsive/mariposatex-xs.png 300w ,https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/1/responsive/mariposatex-sm.png 480w ,https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/1/responsive/mariposatex-md.png 768w ,https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/1/responsive/mariposatex-lg.png 1024w"></figure>
+<blockquote>
+<p><span style="color: #000000;"><em> la imagen incorpora además una textura de grano sutil que evoca la materialidad microscópica de las alas y aporta profundidad visual, evitando una superficie excesivamente plana.</em></span></p>
+</blockquote>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
 </feed>
