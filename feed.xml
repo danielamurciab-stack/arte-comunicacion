@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>arte y comunicación</title>
+    <link href="https://danielamurciab-stack.github.io/arte-comunicacion/feed.xml" rel="self" />
+    <link href="https://danielamurciab-stack.github.io/arte-comunicacion" />
+    <updated>2026-02-22T15:18:54-05:00</updated>
+    <author>
+        <name>daniela murcia</name>
+    </author>
+    <id>https://danielamurciab-stack.github.io/arte-comunicacion</id>
+
+    <entry>
+        <title>mi composición en Inkscape</title>
+        <author>
+            <name>daniela murcia</name>
+        </author>
+        <link href="https://danielamurciab-stack.github.io/arte-comunicacion/mi-composicion-en-inkscape.html"/>
+        <id>https://danielamurciab-stack.github.io/arte-comunicacion/mi-composicion-en-inkscape.html</id>
+            <category term="composición visual"/>
+
+        <updated>2026-02-22T15:15:57-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

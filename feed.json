@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "arte y comunicación",
+    "description": "",
+    "home_page_url": "https://danielamurciab-stack.github.io/arte-comunicacion",
+    "feed_url": "https://danielamurciab-stack.github.io/arte-comunicacion/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "daniela murcia"
+    },
+    "items": [
+        {
+            "id": "https://danielamurciab-stack.github.io/arte-comunicacion/mi-composicion-en-inkscape.html",
+            "url": "https://danielamurciab-stack.github.io/arte-comunicacion/mi-composicion-en-inkscape.html",
+            "title": "mi composición en Inkscape",
+            "author": {
+                "name": "daniela murcia"
+            },
+            "tags": [
+                   "composición visual"
+            ],
+            "date_published": "2026-02-22T15:15:57-05:00",
+            "date_modified": "2026-02-22T15:18:54-05:00"
+        }
+    ]
+}
