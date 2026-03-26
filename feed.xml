@@ -3,12 +3,38 @@
     <title>arte y comunicación</title>
     <link href="https://danielamurciab-stack.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://danielamurciab-stack.github.io/arte-comunicacion" />
-    <updated>2026-02-22T18:33:32-05:00</updated>
+    <updated>2026-03-26T17:35:52-05:00</updated>
     <author>
         <name>daniela murcia</name>
     </author>
     <id>https://danielamurciab-stack.github.io/arte-comunicacion</id>
 
+    <entry>
+        <title>experimentación técnica: composición sonora</title>
+        <author>
+            <name>daniela murcia</name>
+        </author>
+        <link href="https://danielamurciab-stack.github.io/arte-comunicacion/experimentacion-tecnica-composicion-sonora.html"/>
+        <id>https://danielamurciab-stack.github.io/arte-comunicacion/experimentacion-tecnica-composicion-sonora.html</id>
+
+        <updated>2026-03-26T17:32:15-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    spellbound A continuación, se presenta mi experimentación sonora, construida a partir de&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--highlight align-center" data-start="0" data-end="327"><strong>spellbound</strong></p>
+<p data-start="0" data-end="327">A continuación, se presenta mi experimentación sonora, construida a partir de una entrevista realizada a mi madre y a mi abuela. En este ejercicio, ambas reflexionan sobre las concepciones del rol de la mujer en sus respectivos contextos y comparten experiencias en las que han tensionado o transformado dichos marcos sociales.</p>
+<p class="align-left" data-start="329" data-end="554">La pieza articula estas voces con una capa sonora que incorpora elementos simbólicos asociados a la libertad y la rebeldía femenina, entendidos no solo como gestos de ruptura, sino también como formas de afirmación subjetiva.</p>
+<blockquote>
+<p data-start="329" data-end="554">Contiene fragmentos de la pelicula Cruella y la canción Spellbound de Siouxsie and the Banshees.</p>
+</blockquote>
+<p><audio loading="lazy" controls="controls" src="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/3/sonido-clase.mp3"></audio></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>mi composición en Inkscape</title>
         <author>

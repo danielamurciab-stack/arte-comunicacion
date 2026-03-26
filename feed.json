@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://danielamurciab-stack.github.io/arte-comunicacion/experimentacion-tecnica-composicion-sonora.html",
+            "url": "https://danielamurciab-stack.github.io/arte-comunicacion/experimentacion-tecnica-composicion-sonora.html",
+            "title": "experimentación técnica: composición sonora",
+            "summary": "spellbound A continuación, se presenta mi experimentación sonora, construida a partir de&hellip;",
+            "content_html": "<p class=\"msg msg--highlight align-center\" data-start=\"0\" data-end=\"327\"><strong>spellbound</strong></p>\n<p data-start=\"0\" data-end=\"327\">A continuación, se presenta mi experimentación sonora, construida a partir de una entrevista realizada a mi madre y a mi abuela. En este ejercicio, ambas reflexionan sobre las concepciones del rol de la mujer en sus respectivos contextos y comparten experiencias en las que han tensionado o transformado dichos marcos sociales.</p>\n<p class=\"align-left\" data-start=\"329\" data-end=\"554\">La pieza articula estas voces con una capa sonora que incorpora elementos simbólicos asociados a la libertad y la rebeldía femenina, entendidos no solo como gestos de ruptura, sino también como formas de afirmación subjetiva.</p>\n<blockquote>\n<p data-start=\"329\" data-end=\"554\">Contiene fragmentos de la pelicula Cruella y la canción Spellbound de Siouxsie and the Banshees.</p>\n</blockquote>\n<p><audio loading=\"lazy\" controls=\"controls\" src=\"https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/3/sonido-clase.mp3\"></audio></p>",
+            "author": {
+                "name": "daniela murcia"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-26T17:32:15-05:00",
+            "date_modified": "2026-03-26T17:35:52-05:00"
+        },
+        {
             "id": "https://danielamurciab-stack.github.io/arte-comunicacion/mi-composicion-en-inkscape.html",
             "url": "https://danielamurciab-stack.github.io/arte-comunicacion/mi-composicion-en-inkscape.html",
             "title": "mi composición en Inkscape",
@@ -23,7 +37,7 @@
                    "composición visual"
             ],
             "date_published": "2026-02-22T15:15:57-05:00",
-            "date_modified": "2026-02-22T18:33:32-05:00"
+            "date_modified": "2026-03-26T17:32:26-05:00"
         }
     ]
 }
