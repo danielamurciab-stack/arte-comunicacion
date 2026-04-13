@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://danielamurciab-stack.github.io/arte-comunicacion/podcast-melany-aponte.html",
+            "url": "https://danielamurciab-stack.github.io/arte-comunicacion/podcast-melany-aponte.html",
+            "title": "podcast: melany aponte",
+            "summary": "En este episodio hablamos con Melany Aponte sobre su proyecto artístico en&hellip;",
+            "content_html": "<p data-start=\"86\" data-end=\"394\">En este episodio hablamos con Melany Aponte sobre su proyecto artístico en torno al campo, la memoria y el cuerpo. A partir de una experiencia marcada por la incomodidad, Melany cuestiona la romantización de lo rural y propone entender el territorio desde la experiencia directa y los saberes que lo habitan.</p>\n<p data-start=\"396\" data-end=\"723\">La conversación atraviesa temas como la relación entre signo e índice, la pérdida de conocimientos tradicionales como el tejido, y la forma en que el arte puede traducir estas tensiones.</p>\n<blockquote>\n<p data-start=\"725\" data-end=\"817\">Un episodio sobre mirar de nuevo, habitar desde el cuerpo y repensar lo que creemos conocer.</p>\n</blockquote>\n<p><audio loading=\"lazy\" controls=\"controls\" src=\"https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/4/Melany-Aponte-Entrevista.m4a\"></audio></p>\n<p data-start=\"725\" data-end=\"817\">grupo: Daniela Murcia, Angie, Valentina Molina y Danna Bennitez</p>\n<p data-start=\"725\" data-end=\"817\"> </p>\n<p data-start=\"725\" data-end=\"817\"> </p>",
+            "author": {
+                "name": "daniela murcia"
+            },
+            "tags": [
+                   "podcast"
+            ],
+            "date_published": "2026-04-12T19:58:42-05:00",
+            "date_modified": "2026-04-12T20:24:02-05:00"
+        },
+        {
             "id": "https://danielamurciab-stack.github.io/arte-comunicacion/experimentacion-tecnica-composicion-sonora.html",
             "url": "https://danielamurciab-stack.github.io/arte-comunicacion/experimentacion-tecnica-composicion-sonora.html",
             "title": "experimentación técnica: composición sonora",
@@ -23,7 +38,7 @@
                    "podcast"
             ],
             "date_published": "2026-03-26T17:32:15-05:00",
-            "date_modified": "2026-03-26T17:38:11-05:00"
+            "date_modified": "2026-04-12T20:11:39-05:00"
         },
         {
             "id": "https://danielamurciab-stack.github.io/arte-comunicacion/mi-composicion-en-inkscape.html",

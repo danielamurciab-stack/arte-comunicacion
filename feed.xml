@@ -3,12 +3,41 @@
     <title>arte y comunicación</title>
     <link href="https://danielamurciab-stack.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://danielamurciab-stack.github.io/arte-comunicacion" />
-    <updated>2026-03-26T17:38:11-05:00</updated>
+    <updated>2026-04-12T20:24:02-05:00</updated>
     <author>
         <name>daniela murcia</name>
     </author>
     <id>https://danielamurciab-stack.github.io/arte-comunicacion</id>
 
+    <entry>
+        <title>podcast: melany aponte</title>
+        <author>
+            <name>daniela murcia</name>
+        </author>
+        <link href="https://danielamurciab-stack.github.io/arte-comunicacion/podcast-melany-aponte.html"/>
+        <id>https://danielamurciab-stack.github.io/arte-comunicacion/podcast-melany-aponte.html</id>
+            <category term="podcast"/>
+
+        <updated>2026-04-12T19:58:42-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    En este episodio hablamos con Melany Aponte sobre su proyecto artístico en&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-start="86" data-end="394">En este episodio hablamos con Melany Aponte sobre su proyecto artístico en torno al campo, la memoria y el cuerpo. A partir de una experiencia marcada por la incomodidad, Melany cuestiona la romantización de lo rural y propone entender el territorio desde la experiencia directa y los saberes que lo habitan.</p>
+<p data-start="396" data-end="723">La conversación atraviesa temas como la relación entre signo e índice, la pérdida de conocimientos tradicionales como el tejido, y la forma en que el arte puede traducir estas tensiones.</p>
+<blockquote>
+<p data-start="725" data-end="817">Un episodio sobre mirar de nuevo, habitar desde el cuerpo y repensar lo que creemos conocer.</p>
+</blockquote>
+<p><audio loading="lazy" controls="controls" src="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/4/Melany-Aponte-Entrevista.m4a"></audio></p>
+<p data-start="725" data-end="817">grupo: Daniela Murcia, Angie, Valentina Molina y Danna Bennitez</p>
+<p data-start="725" data-end="817"> </p>
+<p data-start="725" data-end="817"> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>experimentación técnica: composición sonora</title>
         <author>
