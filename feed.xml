@@ -3,7 +3,7 @@
     <title>arte y comunicación</title>
     <link href="https://danielamurciab-stack.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://danielamurciab-stack.github.io/arte-comunicacion" />
-    <updated>2026-04-28T10:51:17-05:00</updated>
+    <updated>2026-04-28T10:53:06-05:00</updated>
     <author>
         <name>daniela murcia</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://danielamurciab-stack.github.io/arte-comunicacion/mis-iniciativas.html"/>
         <id>https://danielamurciab-stack.github.io/arte-comunicacion/mis-iniciativas.html</id>
+        <media:content url="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/5/Captura-de-pantalla-2026-04-20-a-las-1.54.59-p.m..png" medium="image" />
             <category term="iniciativa"/>
 
         <updated>2026-04-28T10:47:02-05:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/5/Captura-de-pantalla-2026-04-20-a-las-1.54.59-p.m..png" alt="" />
                     iniciativa uno: poster aftersun. Mi primera iniciativa consistió en la creación de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/5/Captura-de-pantalla-2026-04-20-a-las-1.54.59-p.m..png" class="type:primaryImage" alt="" /></p>
                 <p class="align-center"><strong>iniciativa uno: poster aftersun.</strong></p>
 <p class="align-left" data-start="106" data-end="467">Mi primera iniciativa consistió en la creación de un póster a partir de la película <span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline"><span class="whitespace-normal">Aftersun</span></span>, entendida no solo como referente narrativo sino como campo de exploración afectiva. Más que representar una escena o sintetizar la trama, el objetivo fue traducir visualmente la relación entre ausencia y memoria que atraviesa la película.</p>
 <p class="align-left" data-start="469" data-end="909">Busqué construir la figura del padre no desde su presencia literal, sino desde su condición espectral: una presencia que no está del todo, pero que insiste. En este sentido, la imagen se articula desde la mirada de la hija, donde él aparece como una forma que la envuelve, la desborda y, de algún modo, la constituye. No es un cuerpo delimitado, sino una expansión: una presencia difusa que ocupa el espacio sin fijarse completamente en él.</p>
