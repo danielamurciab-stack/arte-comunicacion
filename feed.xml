@@ -3,7 +3,7 @@
     <title>arte y comunicación</title>
     <link href="https://danielamurciab-stack.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://danielamurciab-stack.github.io/arte-comunicacion" />
-    <updated>2026-05-20T22:26:58-05:00</updated>
+    <updated>2026-05-20T22:31:24-05:00</updated>
     <author>
         <name>daniela murcia</name>
     </author>
@@ -16,23 +16,27 @@
         </author>
         <link href="https://danielamurciab-stack.github.io/arte-comunicacion/entrega-final-videos.html"/>
         <id>https://danielamurciab-stack.github.io/arte-comunicacion/entrega-final-videos.html</id>
+        <media:content url="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/6/tx6s_74c1cb6f-4652-4377-9603-3fe3492401c8_2026-03-02_17-44-17.png" medium="image" />
+            <category term="video"/>
 
         <updated>2026-05-20T21:24:15-05:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/6/tx6s_74c1cb6f-4652-4377-9603-3fe3492401c8_2026-03-02_17-44-17.png" alt="" />
                     Estos dos videos comparten un montaje experimental y una exploración emocional ligada&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/6/tx6s_74c1cb6f-4652-4377-9603-3fe3492401c8_2026-03-02_17-44-17.png" class="type:primaryImage" alt="" /></p>
                 <p class="align-center" data-start="0" data-end="134">Estos dos videos comparten un montaje experimental y una exploración emocional ligada a las problemáticas del artista contemporáneo.</p>
 <p class="align-center" data-start="136" data-end="442">El primero construye su narrativa a partir de la ensoñación: imaginar las imágenes y la obra antes de ser ejecutada. Habla de ese instante previo a la creación, cuando las ideas aparecen de forma caótica y abundante hasta comenzar, poco a poco, a encontrar sentido y convertirse en una obra.</p>
 <p class="align-center" data-start="346" data-end="577" data-is-last-node="" data-is-only-node="">El segundo es un acercamiento más íntimo y personal a la ansiedad dentro del proceso artístico; una reflexión sobre la presión de crear, la vulnerabilidad y el desgaste emocional que muchas veces acompañan al artista contemporáneo.</p>
 <p data-start="346" data-end="577" data-is-last-node="" data-is-only-node=""> </p>
-<p data-start="346" data-end="577" data-is-last-node="" data-is-only-node="">Video 1. Ensoñación</p>
-<figure class="post__video"><video loading="lazy" width="514" height="976" style="width: 514px; height: 976px;" poster="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/6/copy_D813DD60-2C55-44C9-BF27-11F5D851D271.mov" controls="controls" data-mce-fragment="1">
-<source src="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/6/copy_D813DD60-2C55-44C9-BF27-11F5D851D271.mov" /></video></figure>
-<p data-start="346" data-end="577" data-is-last-node="" data-is-only-node="">Video 2. Ruido.</p>
+<p data-start="346" data-end="577" data-is-last-node="" data-is-only-node=""><strong>Video 1. Ensoñación.</strong></p>
+<figure class="post__video"><video loading="lazy" width="513" height="855" style="width: 513px; height: 855px;" poster="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/6/copy_9D41920C-665D-4441-B890-8795016C796C.mov" controls="controls" data-mce-fragment="1">
+<source src="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/6/copy_9D41920C-665D-4441-B890-8795016C796C.mov" /></video></figure>
+<p data-start="346" data-end="577" data-is-last-node="" data-is-only-node=""><strong>Video 2. Ruido.</strong></p>
 <figure class="post__video"><video loading="lazy" width="694" height="1489" style="width: 514px; height: 1107px;" poster="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/6/copy_FB2E4087-3271-4AA3-B460-527C5B09F241-2-2.mov" controls="controls" data-mce-fragment="1">
 <source src="https://danielamurciab-stack.github.io/arte-comunicacion/media/posts/6/copy_FB2E4087-3271-4AA3-B460-527C5B09F241-2-2.mov" /></video></figure>
             ]]>
